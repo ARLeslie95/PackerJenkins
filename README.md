@@ -1,4 +1,3 @@
 # WebDevProvision
 
-TODO: Enter the cookbook description here.
-
+TODO: Enter the cookbooks description here.
